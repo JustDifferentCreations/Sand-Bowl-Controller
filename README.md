@@ -2,7 +2,7 @@
 
 The control board for a zen sand bowl. A stepper motor turns a single arm in a circle: one side combs patterns into the sand and the other side smooths it. The board also lights the bowl with RGB LEDs and shows its status on a small OLED.
 
-Designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB-Only Builds](https://justdif.com/pcb-only-builds/) page.
+Designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB Projects](https://justdif.com/pcb-projects/) page.
 
 ## Features
 
